@@ -1,3 +1,8 @@
 .searchContainer {
   text-align: center;
 }
+
+.weatherList {
+  display: inline-block;
+  text-align: left;
+}
